@@ -8,5 +8,7 @@ My Machine Learning Journey from scratch.
 
 
 * ### Week 1
-    * Week 1 of my Machine Learning Journey.
+    * Git & Github ✅
+    * Pandas
+    * Jupyter
     * 
